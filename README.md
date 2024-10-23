@@ -1,6 +1,6 @@
-### Hola, mi nombre es Antonio Pérez 👋
+# Hola, mi nombre es Antonio Pérez 👋
 
-<hr>
+
 
 ### 👨🏻 Sobre mí 
 
